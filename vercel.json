@@ -1,0 +1,21 @@
+{
+  "redirects": [
+    { "source": "/pages/avis-temoignages", "has": [{ "type": "query", "key": "view", "value": "en-savoir-plus" }], "destination": "/en-savoir-plus/", "permanent": true },
+    { "source": "/pages/avis-temoignages", "has": [{ "type": "query", "key": "view", "value": "soins-prestations" }], "destination": "/prestations/", "permanent": true },
+    { "source": "/pages/avis-temoignages", "has": [{ "type": "query", "key": "view", "value": "nos-pierres" }], "destination": "/pierres/", "permanent": true },
+    { "source": "/pages/avis-temoignages", "has": [{ "type": "query", "key": "view", "value": "blogs" }], "destination": "/blog/", "permanent": true },
+    { "source": "/pages/avis-temoignages", "has": [{ "type": "query", "key": "view", "value": "avis-temoignages" }], "destination": "/avis/", "permanent": true },
+    { "source": "/pages/avis-temoignages", "has": [{ "type": "query", "key": "view", "value": "prendre-rdv" }], "destination": "/rendez-vous/", "permanent": true },
+    { "source": "/pages/avis-temoignages", "destination": "/avis/", "permanent": true },
+    { "source": "/pages/contact", "destination": "/contact/", "permanent": true },
+    { "source": "/pages/a-propos", "destination": "/en-savoir-plus/", "permanent": true },
+    { "source": "/pages/seances-soins", "destination": "/prestations/", "permanent": true },
+    { "source": "/pages/blogs", "destination": "/blog/", "permanent": true },
+    { "source": "/blogs/actualites/les-chakras-portails-de-notre-structure-globale-vibratoire", "destination": "/blog/les-chakras-portails-de-notre-structure-globale-vibratoire/", "permanent": true },
+    { "source": "/policies/privacy-policy", "destination": "/politique-de-confidentialite/", "permanent": true },
+    { "source": "/policies/contact-information", "destination": "/coordonnees/", "permanent": true },
+    { "source": "/policies/legal-notice", "destination": "/mentions-legales/", "permanent": true },
+    { "source": "/policies/terms-of-service", "destination": "/conditions-utilisation/", "permanent": true },
+    { "source": "/products/rendez-vous", "destination": "/rendez-vous/", "permanent": true }
+  ]
+}
